@@ -1,0 +1,24 @@
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\TelegramRAT.exe.config
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\TelegramRAT.exe
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\TelegramRAT.pdb
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\Sodium.dll
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.csproj.CopyComplete
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.exe
+C:\Users\ygzat\Desktop\ToxicEye-master\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.pdb
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.exe
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.pdb
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\TelegramRAT.exe.config
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\TelegramRAT.exe
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\TelegramRAT.pdb
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\bin\Debug\Sodium.dll
+C:\Users\ygzat\Desktop\Freya Telegram Rat\ToxicEye-master\TelegramRAT\TelegramRAT\obj\Debug\TelegramRAT.csproj.CopyComplete
